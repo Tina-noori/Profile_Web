@@ -43,6 +43,7 @@ body {
     color: #333333;
 }   
 .input-group input:focus {
+    outline: none;
     border-color: rgb(29, 36, 94);
 
 } 
